@@ -1,0 +1,1 @@
+This project is made to demonstrate the Skils learned recently in course of HTML,CSS,JavaScript.
